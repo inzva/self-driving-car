@@ -1,6 +1,6 @@
 # self-driving-car
 
-This project is ongoing research project to create a prototype of self driving car.
+This project is an ongoing research project to create a prototype of a self driving car.
 
 ## Links for Self Driving Car
 
